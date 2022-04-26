@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, eu sou a Beatriz Canuto
 
-<!--
-**BeatrizCanuto/BeatrizCanuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ☕Estou estudando Desenvolvimento Java Full Stack na Generation Brazil
+- 🐘 Pronomes:Ela/Dela
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/BeatrizCanuto">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BeatrizCanuto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCanuto&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+  
+  ..
+  
+<div> 
+  <a href = "mailto:bia2cm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-canuto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/tumblr_lx0zc5HLpy1r9ngamo1_500.gifv">
+ 
+</div>

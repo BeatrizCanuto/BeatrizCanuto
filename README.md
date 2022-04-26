@@ -1,7 +1,6 @@
 ### Olá, eu sou a Beatriz Canuto
 
 - ☕Estou estudando Desenvolvimento Java Full Stack na Generation Brazil
-- 🐘 Pronomes:Ela/Dela
 
 <div align="center">
   <a href="https://github.com/BeatrizCanuto">

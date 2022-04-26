@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/BeatrizCanuto">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=BeatrizCanuto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCanuto&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BeatrizCanuto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCanuto&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
 

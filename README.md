@@ -1,5 +1,7 @@
 ### Olá, eu sou a Beatriz Canuto
 
+![](https://media.giphy.com/media/1nGi1Sio7ThRveZCt6/giphy.gif)
+
 - ☕Estou estudando Desenvolvimento Java Full Stack na Generation Brazil
 
 <div align="center">
@@ -13,7 +15,7 @@
 <div> 
   <a href = "mailto:bia2cm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-canuto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="right" alt="spock-pic" height="140" style="border-radius:80px;" src="https://media.giphy.com/media/1FMaabePDEfgk/giphy.gif">
+
   
   ![Snake animation](https://github.com/BeatrizCanuto/BeatrizCanuto/blob/output/github-contribution-grid-snake.svg)
  

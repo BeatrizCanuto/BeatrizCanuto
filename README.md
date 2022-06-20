@@ -1,7 +1,5 @@
 ### Olá, eu sou a Beatriz Canuto
 
-![](https://media.giphy.com/media/1nGi1Sio7ThRveZCt6/giphy.gif)
-
 - ☕Estou estudando Desenvolvimento Java Full Stack na Generation Brazil
 
 <div align="center">

@@ -1,6 +1,6 @@
 ### Olá, eu sou a Beatriz Canuto
 
-- ☕Estou estudando Desenvolvimento Java Full Stack na Generation Brazil
+- ☕Desenvolvimento Web Full Stack pela Generation Brazil
 
 
 <div align="left">

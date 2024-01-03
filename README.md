@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/HwTkyfU.png" alt="ilustração de garota tomando café" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://i.imgur.com/HwTkyfU.png" alt="ilustração de garota tomando café" min-width="300px" max-width="300px" width="300px" align="right">
 
 <h1>Hello World!</h1>
 <p align="left"> 
@@ -31,14 +31,4 @@ Graduating in Digital Games and studying Cybersecurity
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contatobeatrizcanuto@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/beatrizcanuto/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizcanuto/" alt="LinkedIn"/></a>
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
-[![card](https://github-readme-stats.vercel.app/api?username=BeatrizCanuto&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![BeatrizCanuto](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCanuto&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

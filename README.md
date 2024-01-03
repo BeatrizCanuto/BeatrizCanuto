@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/HwTkyfU.png" alt="ilustração de garota tomando café" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://i.imgur.com/3Hx4Eis.png" alt="Soul Pixar ilustração" min-width="300px" max-width="300px" width="300px" align="right">
 
 <h1>Hello World!</h1>
 <p align="left"> 
